@@ -21,4 +21,4 @@ pip install -r requirements.txt
 
 ## Author
 
-Abhay Pratap Singh
+Abhay Kumar Singh
